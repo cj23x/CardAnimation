@@ -95,7 +95,7 @@ Transform affects view's frame, but do nothing to view's center and bounds.
 
 Use a subview, and change the container view's background color to what color you want.
 
-When the container view is vertical to screen, make the subview hidden, and after the container view back, make subview visible.
+When the container view is vertical to screen, make the subview hidden, and after the container view back, make subview visible. 
 
 **Rotation Animation Bug in action method**
 
